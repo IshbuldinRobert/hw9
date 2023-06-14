@@ -1,0 +1,15 @@
+C:\Study\C#\home_work\hw9\ex64\obj\Debug\net7.0\ex64.csproj.AssemblyReference.cache
+C:\Study\C#\home_work\hw9\ex64\obj\Debug\net7.0\ex64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\home_work\hw9\ex64\obj\Debug\net7.0\ex64.AssemblyInfoInputs.cache
+C:\Study\C#\home_work\hw9\ex64\obj\Debug\net7.0\ex64.AssemblyInfo.cs
+C:\Study\C#\home_work\hw9\ex64\obj\Debug\net7.0\ex64.csproj.CoreCompileInputs.cache
+C:\Study\C#\home_work\hw9\ex64\bin\Debug\net7.0\ex64.exe
+C:\Study\C#\home_work\hw9\ex64\bin\Debug\net7.0\ex64.deps.json
+C:\Study\C#\home_work\hw9\ex64\bin\Debug\net7.0\ex64.runtimeconfig.json
+C:\Study\C#\home_work\hw9\ex64\bin\Debug\net7.0\ex64.dll
+C:\Study\C#\home_work\hw9\ex64\bin\Debug\net7.0\ex64.pdb
+C:\Study\C#\home_work\hw9\ex64\obj\Debug\net7.0\ex64.dll
+C:\Study\C#\home_work\hw9\ex64\obj\Debug\net7.0\refint\ex64.dll
+C:\Study\C#\home_work\hw9\ex64\obj\Debug\net7.0\ex64.pdb
+C:\Study\C#\home_work\hw9\ex64\obj\Debug\net7.0\ex64.genruntimeconfig.cache
+C:\Study\C#\home_work\hw9\ex64\obj\Debug\net7.0\ref\ex64.dll
